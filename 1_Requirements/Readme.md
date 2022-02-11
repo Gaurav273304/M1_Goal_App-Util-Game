@@ -12,7 +12,9 @@ Language & IDE
 2.Visual studio Code
 
 SWOT Analysis:
-Screenshot (289)
+Strength - it is a user-friendly any user can actively participate
+weaknesses -there are no efficient algorithm for CO2 platform
+ opportunities- user can grab this opportunity to score high marks in which Threads - there is no time limit
 
 4W's and 1H
 Who
